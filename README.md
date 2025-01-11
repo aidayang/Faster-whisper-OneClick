@@ -17,6 +17,7 @@ batch size:就是批处理大小，值越大，处理速度越快，但是对电
 翻译目标语言：想把识别出的文本翻译成什么语言的文本
 
 点击【开始处理】按钮后软件就会开始处理选定的内容，识别结果保存在项目文件夹内的outputs文件夹内。
+视频教程：[youtube](https://www.youtube.com/watch?v=ZBij8jrDM0M)
 
 软件使用注意事项：[https://nuowa.net/1607](https://nuowa.net/1607)
 
