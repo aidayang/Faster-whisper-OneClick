@@ -1,6 +1,6 @@
 # Faster-whisper-OneClick
 
-[faster-whisper](https://github.com/SYSTRAN/faster-whisper)是一款非常热门的语音识别转文字工具，识别速度很快，而且显存使用量要比OpenAI 的Whisper低，为了帮助大家快速上手体验这个非常强大的应用，我制作了Windows版的一键启动整合包，并制作了一个GUI操作界面。下载解压即可直接运行使用。
+faster-whisper是一款非常热门的语音识别转文字工具，识别速度很快，而且显存使用量要比OpenAI 的Whisper低，为了帮助大家快速上手体验这个非常强大的应用，我制作了Windows版的一键启动整合包，并制作了一个GUI操作界面。下载解压即可直接运行使用。
 
 ## 整合包使用说明
 
@@ -20,7 +20,6 @@ batch size:就是批处理大小，值越大，处理速度越快，但是对电
 
 视频教程：[youtube](https://www.youtube.com/watch?v=ZBij8jrDM0M)
 
-软件使用注意事项：[https://nuowa.net/1607](https://nuowa.net/1607)
 
 ## Faster-whisper一键启动整合包下载链接
 
